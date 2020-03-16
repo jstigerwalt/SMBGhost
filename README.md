@@ -19,3 +19,6 @@ Final packet payload sends the bad offset as shown below.
 Kernel Debugger sees the crash.
 
 ![Alt text](/IMGs/page-fault.jpg?raw=true "Page Fault Windows Kernel")
+
+
+**Use Server IP as Arg to Script!**
