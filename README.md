@@ -1,6 +1,6 @@
 # SMBGhost
 
-##Quick and Dirty POC <- BSOD
+## Quick and Dirty POC <- BSOD
 
 Python script contains 3 seperate packet payloads.
 
@@ -8,7 +8,7 @@ Python script contains 3 seperate packet payloads.
 2. Session <- Session information, negotiate 
 3. SMB3 <- SMB3 compression (This is where we send bad offset)
 
-May need to execute the script multiple times, there is no pause or recv check done. 
+**May need to execute the script multiple times, there is no pause or recv check done.** 
 
 Looking at the script our first packet sends the request, next our 2nd packet sends the negotiate packet. This may not need to be done, but at least the request is sent and response is returned. We do not check for this but can be added easy.
 
