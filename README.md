@@ -1,6 +1,6 @@
 # SMBGhost
 
-##Quick and Dirty POC <- BSOD##
+##Quick and Dirty POC <- BSOD
 
 Python script contains 3 seperate packet payloads.
 
