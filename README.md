@@ -1,5 +1,7 @@
 # SMBGhost
 
+Quick and Dirty POC <- BSOD 
+
 Python script contains 3 seperate packet payloads.
 
 1. Request <- Start SMB session communication
@@ -8,7 +10,7 @@ Python script contains 3 seperate packet payloads.
 
 May need to execute the script multiple times, there is no pause or recv check done. 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/IMGs/offset.jpg?raw=true "SMB3 Compression")
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/IMGs/page-fault.jpg?raw=true "Page Fault Windows Kernel")
