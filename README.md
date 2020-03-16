@@ -13,6 +13,7 @@ Python script contains 3 seperate packet payloads.
 ```cve-2020-0796.py <serverip>```
 
 
+
 **May need to execute the script multiple times, there is no pause or recv check done.** 
 
 Looking at the script our first packet sends the request, next our 2nd packet sends the negotiate packet. This may not need to be done, but at least the request is sent and response is returned. We do not check for this but can be added easy.
