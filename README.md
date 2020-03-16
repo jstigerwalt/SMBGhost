@@ -1,6 +1,6 @@
 # SMBGhost
 
-## Quick and Dirty POC <- BSOD
+## Quick and Dirty POC <- BSOD (CVE-2020-0796)
 
 Python script contains 3 seperate packet payloads.
 
